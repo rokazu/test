@@ -5,5 +5,6 @@
 File *pf=NULL;
 
 int main(int argc, char *argv[]) {
+	printf("hola mundo");
 	return 0;
 }
