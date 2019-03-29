@@ -46,6 +46,8 @@ $RECYCLE.BIN/
 
 #proyect
 *.dev
+*.layout
+*.txt
 
 # Windows Installer files
 *.cab
